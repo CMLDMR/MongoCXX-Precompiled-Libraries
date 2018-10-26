@@ -1,2 +1,2 @@
-# MongoCXX-R-3.3.0
+# MongoCXX-Precompiled libraries
 MongoDB Precompiled Library for C++
