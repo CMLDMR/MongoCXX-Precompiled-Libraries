@@ -4,4 +4,5 @@ MongoDB Precompiled Library for C++. its included bson-mongoc 1.13 and bsoncxx-m
 <ul>
   <li> Visual Studio 2015 x64 Binaries</li>
   <li> MinGW64 7.30 x64 Binaries</li>
+  <li> Android Binaries </li>
 </ul>
